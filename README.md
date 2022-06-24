@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Garza-Dev
 - 👀 I am an Indie Game Developer
-- 🌱 I’m currently working on Dreamtamer
+- 🌱 I’m currently working on The Bound
 - 📫 How to reach me (WIP)
 
 <!---
