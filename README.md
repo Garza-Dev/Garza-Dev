@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Garza-Dev aka Eduardo Jr Garza
 - 👀 I am the Systems Administrator for Fox Packaging
-- 🌱 I’m currently developing in-house software to capture and retreive data from our ERP system.
+- 🌱 I’m currently developing in-house software to capture and retreive data from our ERP system
 - 📫 Email: egarzajr.00@gmail.com
 
 <!---
