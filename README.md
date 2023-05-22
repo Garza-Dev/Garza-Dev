@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Garza-Dev -- Eduardo Jr Garza
-- 👀 I am the Systems Administrator for Fox Packaging
+- 👀 I am the Systems Administrator at Fox Packaging
 - 🌱 I’m currently developing in-house integration software to communicate between our ERP system and other entities
 - 📫 Email: egarzajr.00@gmail.com
 
